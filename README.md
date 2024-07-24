@@ -47,7 +47,7 @@ I am a second-year Computer Science student passionate about programming in Pyth
      Technologies used: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white),![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white),![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black).
 
 - **[Iterative and Recursive Algorithms Program](https://github.com/muizbello/Iterative-and-Recursive-Algorithms)**:
-     Technologies used: ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396).
+     Technologies used: ![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=Java&logoColor=007396), ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white).
 
 
 ## 📫 Contact Me
