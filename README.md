@@ -46,7 +46,7 @@ I am a second-year Computer Science student passionate about programming in Pyth
 - **[Computer Science Department Website](https://github.com/muizbello/11068463_DCIT_205_IA)**:
      Technologies used: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white),![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white),![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black).
 
-- **[Iterative and Recursive Algorithms Program](https://github.com/muizbello/Iterative_and_Recursive_Algorithms)**:
+- **[Iterative and Recursive Algorithms Program](https://github.com/muizbello/Iterative-and-Recursive-Algorithms)**:
      Technologies used: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white),![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white),![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black).
 
 
