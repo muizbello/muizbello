@@ -1,4 +1,3 @@
-<!-- Your Name -->
 # Hi there, I'm Muiz Ajeola Bello 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muizbello&color=blueviolet)
@@ -9,25 +8,25 @@
 I am a second-year Computer Science student passionate about programming in Python and exploring the field of cybersecurity. I enjoy solving problems, learning new technologies, and building projects that make an impact.
 
 ## 🎓 Education
-- **Bachelor of Science in Computer Science**
+- Bachelor of Science in Computer Science
   - University of Ghana, Class of 2026
 
-- **Google and Trace Academia Certification in Data Analytics**
+- Google and Trace Academia Certification in Data Analytics
   - Completed in 2022.
 
-## 🛠️ Skills
-- **Programming Languages:**
+## 🛠 Skills
+- Programming Languages:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   
-- **Web Development:**
+- Web Development:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
   
-- **Tools and Technologies:**
+- Tools and Technologies:
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white)
@@ -40,15 +39,14 @@ I am a second-year Computer Science student passionate about programming in Pyth
 
   
 ## 💼 Projects
-- **[Missing Grade Reporting System(Front end only)](https://github.com/muizbello/11068463_DCIT205_Assignment1)**:
+- [Missing Grade Reporting System (Front end only)](https://github.com/muizbello/11068463_DCIT205_Assignment1):
     Technologies used: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white).
 
-- **[Computer Science Department Website](https://github.com/muizbello/11068463_DCIT_205_IA)**:
+- [Computer Science Department Website](https://github.com/muizbello/11068463_DCIT_205_IA):
      Technologies used: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white),![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white),![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black).
 
-- **[Iterative and Recursive Algorithms Program](https://github.com/muizbello/Iterative-and-Recursive-Algorithms)**:
-     Technologies used: ![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=Java&logoColor=007396), ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white).
-
+- [Iterative and Recursive Algorithms Program](https://github.com/muizbello/Iterative-and-Recursive-Algorithms):
+     Technologies used: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white).
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bellomuiz78@gmail.com)
