@@ -14,7 +14,7 @@ I am a second-year Computer Science student passionate about programming in Pyth
 - Google and Trace Academia Certification in Data Analytics
   - Completed in 2022.
 
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ## 🛠 Skills
 - Programming Languages:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
