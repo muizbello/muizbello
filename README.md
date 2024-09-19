@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muiz-bello)
 
 ## 👨‍💻 About Me
-I am a second-year Computer Science student passionate about programming in Python and exploring the field of cybersecurity. I enjoy solving problems, learning new technologies, and building projects that make an impact.
+I am a third-year Computer Science student passionate about programming in Python and exploring the field of Computer Vision and Machine Learning. I enjoy solving problems, learning new technologies, and building projects that make an impact.
 
 ## 🎓 Education
 - Bachelor of Science in Computer Science
