@@ -14,6 +14,12 @@ I am a third-year Computer Science student passionate about programming in Pytho
 - Google and Trace Academia Certification in Data Analytics
   - Completed in 2022.
 
+- Supervised Machine Learning (Regression & Classification) from DeepLearning.AI
+  - Completed in March,2025.
+
+- Advanced Learning Algorithms from DeepLearning.AI
+  - Completed in March,2025.
+
 ## 🛠 Skills
 - Programming Languages:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
